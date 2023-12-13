@@ -1,10 +1,10 @@
 # My First React Native App 🚀
 
-## Looks Like this !
-![Screenshot_2023_1208_162515](https://github.com/PrasannaAmale11/QR_Scanner-Mobile/assets/110029115/d27dd2a8-34c6-4ebb-bf67-10586acbf5bb)
-
-![Screenshot_2023_1208_162546](https://github.com/PrasannaAmale11/QR_Scanner-Mobile/assets/110029115/0d1582f2-15ac-4936-ab7a-d604d11b0cd0)
-
+## Looks Like This!
+<div style="display: flex; justify-content: space-around; width:100%">
+  <img src="https://github.com/PrasannaAmale11/QR_Scanner-Mobile/assets/110029115/d27dd2a8-34c6-4ebb-bf67-10586acbf5bb" alt="Screenshot_2023_1208_162515" width="300" height="400" />
+  <img src="https://github.com/PrasannaAmale11/QR_Scanner-Mobile/assets/110029115/0d1582f2-15ac-4936-ab7a-d604d11b0cd0" alt="Screenshot_2023_1208_162546" width="300" height="400"  />
+</div>
 
 ## Introduction
 
@@ -29,6 +29,14 @@ To try out the app, follow these steps:
 3. Run the app: `npm start` or `yarn start`.
 
 Feel free to explore the code, provide feedback, and join me on this coding journey.
+
+## Technologies Used
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="100" height="100" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="100" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100" height="100" />
+</div>
 
 ## Thank You
 
